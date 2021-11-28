@@ -85,6 +85,7 @@ h5{
 @media ( max-width: 600px){
     body{
         font-size: 15px;
+        margin:0;
     }
     .alexis{
         font-size: 10em;
@@ -97,6 +98,7 @@ h5{
 @media (max-height: 800px){
     body{
         font-size: 15px;
+        margin:0;
     }
     .alexis{
         font-size: 10em;
@@ -107,6 +109,7 @@ h5{
 }
 @media ( max-width: 300px){
     body{
+        margin:0;
         font-size: 10px;
     }
 }
