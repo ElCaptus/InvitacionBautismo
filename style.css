@@ -42,13 +42,13 @@ body{
 .frente{
     padding-top: 5vh;
     background-size: 120vh;
-    background-image: url('../sengundoTry/arbol_frente_10_opacidad-01.png');
+    background-image: url('./arbol_frente_10_opacidad-01.png');
 }
 
 .dorso{
     padding-top: 0;
     background-size: 85vh;
-    background-image: url('../sengundoTry/arbol_dorso_10_opacidad.png');
+    background-image: url('./arbol_dorso_10_opacidad.png');
 }
 
 .container{
